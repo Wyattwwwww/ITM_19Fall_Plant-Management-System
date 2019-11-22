@@ -1,6 +1,6 @@
 # ITM_Plant-Management-System
 Final project in the course Intelligent Manufacturing.\
-An intelligent plant management system. It waters plants automatically according to their different demands by recognizing different categories. It also detects the humidity of the soil by sensors, and makes proper decisions on watering.
+An intelligent plant management system. It waters plants automatically according to their different demands by recognizing different categories and detecting the humidity of the soil by sensors. It also alarms when the water in the storage lacks.
 
 ## Platform
 Arduino UNO
