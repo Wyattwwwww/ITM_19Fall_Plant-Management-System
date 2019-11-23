@@ -7,4 +7,4 @@ Arduino UNO
 
 ## Note
 * *demo.jpg* is the photo of our demo and *circuit.png* is the circuit diagram of our system.
-* Only the controller and hardware part is included here, as it is my part.
+* Only the controlling and hardware part is included here, as it is my part.
